@@ -1,2 +1,2 @@
 # discord-toonmaker
-base for a discord bot that may be used to create a randomized toon as well as a name for them
+The commands within the sample bot provided in this repository creates completely randomized toons, as well as an extra command to create a randomized name.
